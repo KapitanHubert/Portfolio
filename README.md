@@ -42,6 +42,8 @@ Zapraszam do zapoznania się z moją dokumentacją.
 * techniczny umsył / technical mind
 
 # DOKUMENTACJA TESTERSKA - TESTING DOCUMENTATION
- 
+[Błędy/Bugs](https://github.com/KapitanHubert/Portfolio/tree/main/Bug%20Reports)
+[MS SQL](https://github.com/KapitanHubert/Portfolio/tree/main/SQL%20Queries)
+[Przypadki testowe/Test Case](https://github.com/KapitanHubert/Portfolio/tree/main/Test%20Cases)
 
 
