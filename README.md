@@ -45,5 +45,5 @@ Zapraszam do zapoznania się z moją dokumentacją.
 * [Błędy/Bugs](https://github.com/KapitanHubert/Portfolio/tree/main/Bug%20Reports)
 * [MS SQL](https://github.com/KapitanHubert/Portfolio/tree/main/SQL%20Queries)
 * [Przypadki testowe/Test Case](https://github.com/KapitanHubert/Portfolio/tree/main/Test%20Cases)
-
+* [Certyfikaty/Certificates](https://github.com/KapitanHubert/Portfolio/tree/main/Certificates)
 
